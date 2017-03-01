@@ -1,0 +1,157 @@
+{
+  "settings": {
+    "name": "nemerosa.com",
+    "currentPage": "index.html",
+    "theme": {
+      "name": "mobirise3",
+      "title": "Mobirise 3",
+      "styling": {
+        "primaryColor": "#c0a375",
+        "secondaryColor": "#bfcecb",
+        "successColor": "#90a878",
+        "infoColor": "#7e9b9f",
+        "warningColor": "#f3c649",
+        "dangerColor": "#f28281",
+        "titleFont": "Montserrat",
+        "subtitleFont": "Lora",
+        "textFont": "Raleway",
+        "isRoundedButtons": false,
+        "isAnimatedOnScroll": true,
+        "isScrollToTopButton": false,
+        "isRtl": false
+      }
+    },
+    "versionFirst": "3.12.1",
+    "uniqCompNum": 1,
+    "versionPublish": "3.12.1",
+    "favicon": "@PROJECT_PATH@/assets/images/ontrack-logo-128-128x117.png",
+    "noImageResize": ""
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features3",
+          "_anchor": "features3-0",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "columns": "3",
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": true,
+            "showButtons": true
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/ontrack-builds-600x145.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "http://nemerosa.github.io/ontrack",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title1": "Ontrack",
+          "subtitle1": "CI/CD Traceability &amp; Knowledge base",
+          "caption1": "Ontrack is a web application that allows you to monitor the state of your continuous delivery pipeline by consolidating information from your different tools: SCM, ticketing, builds, deliverables, etc. It adds value to your infrastructure by providing a clear view on what's happening.<br><br>ontrack is free and you can just <a href=\"https://github.com/nemerosa/ontrack/releases\">download it</a> and <a href=\"http://nemerosa.github.io/ontrack/\">install it</a>.",
+          "button1": "<a data-app-btn=\"true\" href=\"http://nemerosa.github.io/ontrack/\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/seed-600x353.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "https://github.com/jenkinsci/seed-plugin",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title2": "Seed Jenkins plug-in",
+          "subtitle2": "The key to limitless Jenkins scalability",
+          "caption2": "Seed is a plug-in for Jenkins which helps automating the generation and management of pipelines for branches of a project, allowing to scale to thousands of jobs while reducing the maintenance costs.<br>This plug-in has been presented at the <a href=\"https://www.youtube.com/watch?v=DC6e9mhYOg8\">Jenkins User Conf London 2015</a>, <a href=\"https://www.slideshare.net/DamienCoraboeuf/brujug-jenkins-pipeline-scalability\">BruJUG March 2016</a>, <a href=\"https://devops.com/one-team-5000-jobs-life-devops-jungle/\">All Day DevOps 2016</a>, ...<br>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://github.com/jenkinsci/seed-plugin\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/versioning-600x392.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "https://github.com/nemerosa/versioning",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title3": "Versioning Gradle plug-in",
+          "subtitle3": "Modern branch as a version for Gradle",
+          "caption3": "The Versioning plug-in for Gradle allows the generation of the version information from the SCM branch.<br><br>Using a dynamic version based on the branch allows a very flexible branching strategy, suitable for any workflow.<br><br>It supports Git and Subversion.<br>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://github.com/nemerosa/versioning\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "media4": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title4": "Unlimited Sites",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media5": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+        }
+      ]
+    }
+  }
+}
