@@ -1,6 +1,9 @@
 pipeline {
    agent {
-      docker "ubuntu:16.04"
+      docker {
+         label "docker"
+         image "ubuntu:16.04"
+      }
    }
    options {
       timestamps()
