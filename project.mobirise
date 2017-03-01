@@ -68,7 +68,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/ontrack-builds-600x145.png",
+              "src": "@PROJECT_PATH@/assets/images/ontrack-600x287.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
