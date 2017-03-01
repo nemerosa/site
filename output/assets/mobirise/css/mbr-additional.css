@@ -411,3 +411,15 @@ h6,
 .scrollToTop_wraper {
   opacity: 0 !important;
 }
+#msg-box8-3 .mbr-section-title,
+#msg-box8-3 p {
+  color: #fff;
+}
+#msg-box3-4 .mbr-section-title,
+#msg-box3-4 p {
+  color: #000;
+}
+#social-buttons4-9 .mbr-section-title,
+#social-buttons4-9 .btn-social {
+  color: #fff;
+}
