@@ -68,7 +68,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/ontrack-600x287.png",
+              "src": "@PROJECT_PATH@/assets/images/ontrack-600x392.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -84,7 +84,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"http://nemerosa.github.io/ontrack/\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/seed-600x353.png",
+              "src": "@PROJECT_PATH@/assets/images/seed-600x392.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
