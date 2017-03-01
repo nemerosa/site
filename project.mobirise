@@ -80,7 +80,7 @@
           },
           "title1": "Ontrack",
           "subtitle1": "CI/CD Traceability &amp; Knowledge base",
-          "caption1": "Ontrack is a web application that allows you to monitor the state of your continuous delivery pipeline by consolidating information from your different tools: SCM, ticketing, builds, deliverables, etc. It adds value to your infrastructure by providing a clear view on what's happening.<br><br>ontrack is free and you can just <a href=\"https://github.com/nemerosa/ontrack/releases\">download it</a> and <a href=\"http://nemerosa.github.io/ontrack/\">install it</a>.",
+          "caption1": "Ontrack is a web application that allows you to monitor the state of your continuous delivery pipeline by consolidating information from your different tools: SCM, ticketing, builds, deliverables, etc. It adds value to your infrastructure by providing a clear view on what's happening.<br>",
           "button1": "<a data-app-btn=\"true\" href=\"http://nemerosa.github.io/ontrack/\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media2": {
             "image": {
@@ -96,7 +96,7 @@
           },
           "title2": "Seed Jenkins plug-in",
           "subtitle2": "The key to limitless Jenkins scalability",
-          "caption2": "Seed is a plug-in for Jenkins which helps automating the generation and management of pipelines for branches of a project, allowing to scale to thousands of jobs while reducing the maintenance costs.<br>This plug-in has been presented at the <a href=\"https://www.youtube.com/watch?v=DC6e9mhYOg8\">Jenkins User Conf London 2015</a>, <a href=\"https://www.slideshare.net/DamienCoraboeuf/brujug-jenkins-pipeline-scalability\">BruJUG March 2016</a>, <a href=\"https://devops.com/one-team-5000-jobs-life-devops-jungle/\">All Day DevOps 2016</a>, ...<br>",
+          "caption2": "Seed is a plug-in for Jenkins which helps automating the generation and management of pipelines for branches of a project, allowing to scale to thousands of jobs while reducing the maintenance costs.&nbsp;This plug-in has been presented at the <a href=\"https://www.youtube.com/watch?v=DC6e9mhYOg8\">Jenkins User Conf London 2015</a>, <a href=\"https://www.slideshare.net/DamienCoraboeuf/brujug-jenkins-pipeline-scalability\">BruJUG March 2016</a>, <a href=\"https://devops.com/one-team-5000-jobs-life-devops-jungle/\">All Day DevOps 2016</a>, ...<br>",
           "button2": "<a data-app-btn=\"true\" href=\"https://github.com/jenkinsci/seed-plugin\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media3": {
             "image": {
@@ -112,7 +112,7 @@
           },
           "title3": "Versioning Gradle plug-in",
           "subtitle3": "Modern branch as a version for Gradle",
-          "caption3": "The Versioning plug-in for Gradle allows the generation of the version information from the SCM branch.<br><br>Using a dynamic version based on the branch allows a very flexible branching strategy, suitable for any workflow.<br><br>It supports Git and Subversion.<br>",
+          "caption3": "The Versioning plug-in for Gradle allows the generation of the version information from the SCM branch.&nbsp;<span style=\"font-size: 1rem; line-height: 1.5;\">Using a dynamic version based on the branch allows a very flexible branching strategy, suitable for any workflow.&nbsp;</span><span style=\"font-size: 1rem; line-height: 1.5;\">It supports Git and Subversion.</span><br>",
           "button3": "<a data-app-btn=\"true\" href=\"https://github.com/nemerosa/versioning\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media4": {
             "image": {
