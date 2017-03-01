@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 1,
+    "uniqCompNum": 4,
     "versionPublish": "3.12.1",
     "favicon": "@PROJECT_PATH@/assets/images/ontrack-logo-128-128x117.png",
     "noImageResize": ""
@@ -39,13 +39,47 @@
       },
       "components": [
         {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-3",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1126.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButton": false
+          },
+          "title": "NEMEROSA",
+          "text": "<p>Passions in action</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
           "_tags": [
             "Theme"
           ],
           "_name": "features3",
           "_anchor": "features3-0",
           "_params": {
-            "paddingTop": 2,
+            "paddingTop": "2",
             "paddingBottom": 2,
             "bgImageRadio": false,
             "parallax": true,
