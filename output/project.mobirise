@@ -24,7 +24,7 @@
     "versionFirst": "3.12.1",
     "uniqCompNum": 10,
     "versionPublish": "3.12.1",
-    "favicon": "@PROJECT_PATH@/assets/images/ontrack-logo-128-128x117.png",
+    "favicon": "@PROJECT_PATH@/assets/images/flower-large-transparent-128x128.png",
     "noImageResize": ""
   },
   "pages": {
