@@ -165,7 +165,7 @@
           },
           "title2": "Seed Jenkins plug-in",
           "subtitle2": "The key to limitless Jenkins scalability",
-          "caption2": "Seed is a plug-in for Jenkins which helps automating the generation and management of pipelines for branches of a project, allowing to scale to thousands of jobs while reducing the maintenance costs.&nbsp;This plug-in has been presented at the <a href=\"https://www.youtube.com/watch?v=DC6e9mhYOg8\">Jenkins User Conf London 2015</a>, <a href=\"https://www.slideshare.net/DamienCoraboeuf/brujug-jenkins-pipeline-scalability\">BruJUG March 2016</a>, <a href=\"https://devops.com/one-team-5000-jobs-life-devops-jungle/\">All Day DevOps 2016</a>, ...<br>",
+          "caption2": "Seed is a plug-in for Jenkins which helps automating the generation and management of pipelines for branches of a project, allowing to scale to thousands of jobs while reducing the maintenance costs.&nbsp;This plug-in has been presented at the <a href=\"https://www.youtube.com/watch?v=DC6e9mhYOg8\">Jenkins User Conf London 2015</a>, <a href=\"https://www.slideshare.net/DamienCoraboeuf/brujug-jenkins-pipeline-scalability\">BruJUG March 2016</a>, <a href=\"https://devops.com/one-team-5000-jobs-life-devops-jungle/\">All Day DevOps 2016</a>, <a href=\"https://www.slideshare.net/DamienCoraboeuf/belgium-jenkinsmeetupjobjungle01\" target=\"_blank\">Belgium Area Jenkins Meetup 2017</a> ...<br>",
           "button2": "<a data-app-btn=\"true\" href=\"https://github.com/jenkinsci/seed-plugin\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media3": {
             "image": {
