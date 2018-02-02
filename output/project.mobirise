@@ -149,7 +149,7 @@
           },
           "title1": "Ontrack",
           "subtitle1": "CI/CD Traceability &amp; Knowledge base",
-          "caption1": "Ontrack is a web application that allows you to monitor the state of your continuous delivery pipeline by consolidating information from your different tools: SCM, ticketing, builds, deliverables, etc. It adds value to your infrastructure by providing a clear view on what's happening.<br>",
+          "caption1": "Ontrack is a web application that allows you to monitor the state of your continuous delivery pipeline by consolidating information from your different tools: SCM, ticketing, builds, deliverables, etc. It adds value to your infrastructure by providing a clear view on what's happening. Ontrack was presented at <a href=\"https://www.youtube.com/watch?v=5PSsohZyQPQ/\" target=\"_blank\">All Day DevOps 2017</a>.<br>",
           "button1": "<a data-app-btn=\"true\" href=\"http://nemerosa.github.io/ontrack/\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media2": {
             "image": {
